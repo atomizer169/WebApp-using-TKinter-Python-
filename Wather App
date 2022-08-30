@@ -77,8 +77,6 @@ lbl_title = Label(window, text="Weather App", fg='red', bg= "DeepSkyBlue", font=
 lbl_desc = Label(window, text="To check the weather in your city please enter the city name in the box below and hit GO!!!", fg='black', bg= "DeepSkyBlue", font=("Helvetica", 10))
 
 
-#lbl_window = canvas1.create_window(60, 100, anchor="nw", window = lbl)
-
 #positioning on the form 
 #Text Labels
 lbl_title.place(x=390, y=5)
